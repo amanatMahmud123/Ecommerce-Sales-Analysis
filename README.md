@@ -32,7 +32,7 @@ Analyze sales and promotions data to identify key trends and insights, segmentin
   - Promotion (62,4)
 - **Key columns:** Day_of_week, channel, event_hour, event_type, category, sub_category1, sub_category2, brand, price, user_session, State, User_Score
 - **Calculated/Dax columns:** Active title, Average discount, Average user score, Purchase ratio, Set benchmark, Top brand by customer, Top reviewed brand, top sold category, etc.
-- [**Data Model**](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis/blob/main/data%20model.png)
+- [**Data Model**](https://github.com/amanatMahmud123/Ecommerce-Sales-Analysis/blob/main/data%20model.png)
 
 ## 🔎 Key Findings
 - Total sales: $5.37M
@@ -57,11 +57,11 @@ Analyze sales and promotions data to identify key trends and insights, segmentin
 
 ## 📌 Project Presentation
 ### Video Presentation
-[![E-commerce Sales Analysis Presentation](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis/blob/main/cover.png)](https://www.linkedin.com/posts/amanat-mahmud_dataanalysis-ecommerce-powerbi-activity-7222782763840548864-ePfh?utm_source=share&utm_medium=member_desktop)
+[![E-commerce Sales Analysis Presentation](https://github.com/amanatMahmud123/Ecommerce-Sales-Analysis/blob/main/cover.png)](https://www.linkedin.com/posts/amanat-mahmud_dataanalysis-ecommerce-powerbi-activity-7222782763840548864-ePfh?utm_source=share&utm_medium=member_desktop)
 
 
 ### Slides
-The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis/blob/main/slide.pdf)
+The detailed presentation slides for this project can be found [here](https://github.com/amanatMahmud123/Ecommerce-Sales-Analysis/blob/main/slide.pdf)
 
 ## 🧠 Project Learnings
 1. Data Loading and Transformations.
@@ -85,8 +85,8 @@ The detailed presentation slides for this project can be found [here](https://gi
 
 ## 📈 Dashboard
 - [Live Dasboard](https://app.powerbi.com/view?r=eyJrIjoiOGY4OWIwOWItNmJjYi00Yjg3LWJlZGMtZTZmNDkxZTc4MTQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
-<img style="border-radius:25px;" src="https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis/blob/main/Dashboard%20SS/overview.png">
+<img style="border-radius:25px;" src="https://github.com/amanatMahmud123/Ecommerce-Sales-Analysis/blob/main/Dashboard%20SS/overview.png">
 
-- [**More Images**](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis/tree/main/Dashboard%20SS)
+- [**More Images**](https://github.com/amanatMahmud123/Ecommerce-Sales-Analysis/tree/main/Dashboard%20SS)
 
 
